@@ -1,0 +1,1 @@
+# Báo cáo Bài 2: Quản lý nhánh và Xử lý xung đột
